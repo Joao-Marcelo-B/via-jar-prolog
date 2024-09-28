@@ -1,0 +1,7 @@
+:- dynamic pos/2.
+
+pos(aviao, aeroporto).
+
+:- dynamic passageiro/1.
+
+
