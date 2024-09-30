@@ -1,27 +1,26 @@
-﻿using System;
+﻿using SbsSW.SwiPlCs;
+using SbsSW.SwiPlCs.Exceptions;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
-using SbsSW.SwiPlCs;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace Via.Jar
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
-        protected void mostraPosicao()
-        {
-            listActions.Items.Clear();
-            PlQuery pos = new PlQuery("pos(X,Y)");
-            foreach (PlQueryVariables var in pos.SolutionVariables)
-                listActions.Items.Add(var["X"].ToString() + " esta em " 
-                    + var["Y"].ToString());
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
         {
             Environment.SetEnvironmentVariable("SWI_HOME_DIR", @"prolog");
             Environment.SetEnvironmentVariable("Path", @"prolog");
@@ -30,11 +29,10 @@ namespace Via.Jar
             PlEngine.Initialize(p);
             PlQuery carregar = new PlQuery("carrega_banco");
             carregar.NextSolution();
-            mostraPosicao();
 
         }
 
-        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        private void Form2_FormClosing(object sender, FormClosingEventArgs e)
         {
             PlQuery salvar = new PlQuery("salva_banco");
             salvar.NextSolution();
@@ -52,13 +50,13 @@ namespace Via.Jar
         public bool acontecendoViagem = false;
         private void viajar_Click(object sender, EventArgs e)
         {
-            if(destino.Text == "")
+            if (destino.Text == "")
             {
                 MessageBox.Show("Digite um destino");
                 return;
             }
 
-            if(nomePassageiro.Text == "")
+            if (nomePassageiro.Text == "")
             {
                 MessageBox.Show("Digite o nome do passageiro");
                 return;
@@ -74,28 +72,28 @@ namespace Via.Jar
         List<string> passageiros = new List<string>();
         private void embarcar_Click(object sender, EventArgs e)
         {
-            if(acontecendoViagem)
+            if (acontecendoViagem)
             {
                 MessageBox.Show("Não é possível embarcar, pois o avião não está em viagem");
                 return;
             }
 
-            if (destino.Text == "")
+            if (destino.Text.ToLower() == "")
             {
                 MessageBox.Show("Digite um destino");
                 return;
             }
 
-            if (nomePassageiro.Text == "")
+            if (nomePassageiro.Text.ToLower() == "")
             {
                 MessageBox.Show("Digite o nome do passageiro");
                 return;
             }
 
             PlQuery embarque = new PlQuery("embarcar(Passageiro)");
-            embarque.Variables["Passageiro"].Unify(nomePassageiro.Text);
+            embarque.Variables["Passageiro"].Unify(nomePassageiro.Text.ToLower());
             embarque.NextSolution();
-            listActions.Items.Add("O passageiro " + nomePassageiro.Text + " embarcou no avião.");
+            listActions.Items.Add("O passageiro " + nomePassageiro.Text.ToLower() + " embarcou no avião.");
         }
 
         private void desembarque_Click(object sender, EventArgs e)
@@ -108,10 +106,10 @@ namespace Via.Jar
 
 
             PlQuery desembarque = new PlQuery("desembarcar(Passageiro)");
-            desembarque.Variables["Passageiro"].Unify(nomePassageiro.Text);
+            desembarque.Variables["Passageiro"].Unify(nomePassageiro.Text.ToLower());
             desembarque.NextSolution();
             listActions.Items.Add("O avião chegou ao destino!");
-            listActions.Items.Add("O passageiro " + nomePassageiro.Text + " desembarcou do avião.");
+            listActions.Items.Add("O passageiro " + nomePassageiro.Text.ToLower() + " desembarcou do avião.");
 
             acontecendoViagem = false;
         }

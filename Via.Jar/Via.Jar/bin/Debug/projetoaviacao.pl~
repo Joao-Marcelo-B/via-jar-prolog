@@ -1,4 +1,4 @@
-:- dynamic pos/2.
+:- dynamic pos/2
 :- dynamic passageiro/1.
 
 embarcar(Passageiro) :-
@@ -17,10 +17,10 @@ transporte(LD) :-
     format('Transporte de ~w para ~w', [LO, LD]), nl.
 
 carrega_banco :-
-    exists_file('aviao.dat'), consult('aviao.dat').
+    exists_file('aviao.bd'), consult('aviao.bd').
 
 salva_banco :-
-    tell('aviao.dat'),
+    tell('aviao.bd'),
     listing(pos),
     listing(passageiro),
     told.

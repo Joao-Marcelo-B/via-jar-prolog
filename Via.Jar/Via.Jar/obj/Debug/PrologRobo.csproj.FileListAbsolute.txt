@@ -1,0 +1,12 @@
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\bin\Debug\PrologRobo.exe.config
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\bin\Debug\PrologRobo.exe
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\bin\Debug\PrologRobo.pdb
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\bin\Debug\SwiPlCs.xml
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\PrologRobo.csproj.AssemblyReference.cache
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\PrologRobo.Form2.resources
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\PrologRobo.Properties.Resources.resources
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\PrologRobo.csproj.GenerateResource.cache
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\PrologRobo.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\PrologRobo.csproj.Up2Date
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\PrologRobo.exe
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\PrologRobo.pdb

@@ -1,6 +1,6 @@
 ﻿namespace Via.Jar
 {
-    partial class Form1
+    partial class Form2
     {
         /// <summary>
         /// Required designer variable.
@@ -44,7 +44,7 @@
             // 
             // viaJarLogo
             // 
-            this.viaJarLogo.Image = global::Via.Jar.Properties.Resources.via_jar;
+            this.viaJarLogo.Image = global::Via.Jar.Properties.Resources.via_jar1;
             this.viaJarLogo.Location = new System.Drawing.Point(52, 34);
             this.viaJarLogo.Name = "viaJarLogo";
             this.viaJarLogo.Size = new System.Drawing.Size(233, 194);
@@ -151,7 +151,7 @@
             this.desembarque.UseVisualStyleBackColor = true;
             this.desembarque.Click += new System.EventHandler(this.desembarque_Click);
             // 
-            // Form1
+            // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -167,11 +167,11 @@
             this.Controls.Add(this.nomePassageiro);
             this.Controls.Add(this.listActions);
             this.Controls.Add(this.viaJarLogo);
-            this.Name = "Form1";
+            this.Name = "Form2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form1";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "Form2";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form2_FormClosing);
+            this.Load += new System.EventHandler(this.Form2_Load);
             ((System.ComponentModel.ISupportInitialize)(this.viaJarLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -193,4 +193,3 @@
         private System.Windows.Forms.Button desembarque;
     }
 }
-

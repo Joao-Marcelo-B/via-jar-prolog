@@ -1,0 +1,36 @@
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\bin\Debug\SwiPlCs.xml
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\Medica.csproj.AssemblyReference.cache
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\Medica.csproj.GenerateResource.cache
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\Medica.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\Medica.csproj.Up2Date
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\Medica.Form2.resources
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\bin\Debug\Medica.exe.config
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\bin\Debug\Medica.exe
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\bin\Debug\Medica.pdb
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\Medica.Properties.Resources.resources
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\Medica.exe
+C:\Users\Windows\Downloads\Prolog Robo\Prolog Robo\Robo\Robo\PrologRobo\obj\Debug\Medica.pdb
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.csproj.AssemblyReference.cache
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.Form2.resources
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.Properties.Resources.resources
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.csproj.GenerateResource.cache
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.csproj.CoreCompileInputs.cache
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.exe
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.pdb
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\bin\Debug\Medica.exe.config
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\bin\Debug\Medica.exe
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\bin\Debug\Medica.pdb
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\bin\Debug\SwiPlCs.xml
+C:\Users\Joao Marcelo\Downloads\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.csproj.Up2Date
+D:\Projeto_PL\Projeto_PL\PrologRobo\bin\Debug\Medica.exe.config
+D:\Projeto_PL\Projeto_PL\PrologRobo\bin\Debug\Medica.exe
+D:\Projeto_PL\Projeto_PL\PrologRobo\bin\Debug\Medica.pdb
+D:\Projeto_PL\Projeto_PL\PrologRobo\bin\Debug\SwiPlCs.xml
+D:\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.csproj.AssemblyReference.cache
+D:\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.Form2.resources
+D:\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.Properties.Resources.resources
+D:\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.csproj.GenerateResource.cache
+D:\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.csproj.CoreCompileInputs.cache
+D:\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.csproj.Up2Date
+D:\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.exe
+D:\Projeto_PL\Projeto_PL\PrologRobo\obj\Debug\Medica.pdb

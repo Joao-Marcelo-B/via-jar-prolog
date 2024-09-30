@@ -1,23 +1,12 @@
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\bin\Debug\Via.Jar.exe.config
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\bin\Debug\Via.Jar.exe
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\bin\Debug\Via.Jar.pdb
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.AssemblyReference.cache
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\obj\Debug\Via.Jar.Form1.resources
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\obj\Debug\Via.Jar.Properties.Resources.resources
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.GenerateResource.cache
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.CoreCompileInputs.cache
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.Up2Date
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\obj\Debug\Via.Jar.exe
-C:\Users\Joao Marcelo\OneDrive\Desktop\Via.Jar\Via.Jar\obj\Debug\Via.Jar.pdb
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\bin\Debug\Via.Jar.exe.config
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\bin\Debug\Via.Jar.exe
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\bin\Debug\Via.Jar.pdb
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.AssemblyReference.cache
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\obj\Debug\Via.Jar.Form1.resources
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\obj\Debug\Via.Jar.Properties.Resources.resources
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.GenerateResource.cache
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.CoreCompileInputs.cache
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.Up2Date
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\obj\Debug\Via.Jar.exe
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\obj\Debug\Via.Jar.pdb
-C:\Users\Joao Marcelo\Downloads\Via.Jar\Via.Jar\bin\Debug\SwiPlCs.xml
+C:\GitHub\Via.Jar\Via.Jar\bin\Debug\Via.Jar.exe.config
+C:\GitHub\Via.Jar\Via.Jar\bin\Debug\Via.Jar.exe
+C:\GitHub\Via.Jar\Via.Jar\bin\Debug\Via.Jar.pdb
+C:\GitHub\Via.Jar\Via.Jar\bin\Debug\SwiPlCs.xml
+C:\GitHub\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.AssemblyReference.cache
+C:\GitHub\Via.Jar\Via.Jar\obj\Debug\Via.Jar.Properties.Resources.resources
+C:\GitHub\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.GenerateResource.cache
+C:\GitHub\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.CoreCompileInputs.cache
+C:\GitHub\Via.Jar\Via.Jar\obj\Debug\Via.Jar.csproj.Up2Date
+C:\GitHub\Via.Jar\Via.Jar\obj\Debug\Via.Jar.exe
+C:\GitHub\Via.Jar\Via.Jar\obj\Debug\Via.Jar.pdb
+C:\GitHub\Via.Jar\Via.Jar\obj\Debug\Via.Jar.Form2.resources

@@ -1,7 +1,8 @@
 :- dynamic pos/2.
 
-pos(aviao, aeroporto).
+pos(aviao, kk).
 
 :- dynamic passageiro/1.
 
+passageiro(b).
 
